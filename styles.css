@@ -134,8 +134,8 @@ body {
 }
 
 .hero-right img {
-  width: 750px;
-  height: 750px;
+  width: 450px;
+  height: 450px;
   display: block;             /* <--- VERY IMPORTANT */
   object-fit: cover;
   object-position: 50% 75%;
