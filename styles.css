@@ -134,8 +134,8 @@ body {
 }
 
 .hero-right img {
-  width: 250px;         /* adjust size if needed */
-  height: 350px;        /* keep width & height equal */
+  width: 450px;         /* adjust size if needed */
+  height: 450px;        /* keep width & height equal */
   object-fit: cover; 
   object-position: 50% 60%;/* to fit face properly */
   border-radius: 50%; /* makes it round */
