@@ -137,7 +137,7 @@ body {
   width: 450px;         /* adjust size if needed */
   height: 450px;        /* keep width & height equal */
   object-fit: cover; 
-  object-position: 50% 60%;/* to fit face properly */
+  object-position: 50% 75%;/* to fit face properly */
   border-radius: 50%; /* makes it round */
   border: 4px solid #fff; /* optional white border */
   box-shadow: 0 4px 12px rgba(0,0,0,0.2); /* light shadow */
